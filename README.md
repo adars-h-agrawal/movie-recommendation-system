@@ -72,7 +72,7 @@ This is a **Hybrid Recommendation System**:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/adars-h-agrawal/movie-recommendation-system.git
 cd movie-recommendation-system
 ```
 
