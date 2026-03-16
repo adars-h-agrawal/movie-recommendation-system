@@ -23,10 +23,15 @@ This project allows users to:
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/ss_1.png" width="45%" alt="Movie Search Interface"/>
-  <img src="screenshots/ss_2.png" width="45%" alt="Recommendation Results"/>
-</p>
+### 🔎 Movie Search Interface
+![Movie Search Interface](screenshots/ss_1.png)
+
+Users can search for movies using keywords with autocomplete powered by TMDB.
+
+### 🎬 Recommendation Results
+![Recommendation Results](screenshots/ss_2.png)
+
+The system displays movie details along with TF-IDF based similar movies and genre-based recommendations.
 
 ---
 
