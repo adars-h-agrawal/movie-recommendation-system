@@ -21,6 +21,15 @@ This project allows users to:
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/ss_1.png" width="45%" alt="Movie Search Interface"/>
+  <img src="screenshots/ss_2.png" width="45%" alt="Recommendation Results"/>
+</p>
+
+---
+
 ## 🏗️ Tech Stack
 
 - **Backend:** FastAPI, Uvicorn  
